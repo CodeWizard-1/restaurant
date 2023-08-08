@@ -82,6 +82,7 @@ main{
     background-color: bisque;
     /* Make main element take up any surpluse spase to push footer  */
     flex: 1 0 auto;
+    margin-top: 77px;
 }
 /* Footer */
 footer {
