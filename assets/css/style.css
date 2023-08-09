@@ -92,6 +92,12 @@ main{
     flex: 1 0 auto;
     margin-top: 40px;
 }
+#menu h2 {
+    text-transform: none;
+    color: #000000;
+    text-align: center;
+
+}
 /*  Hero section*/
 #hero {
     height: 600px;
@@ -106,7 +112,6 @@ main{
     top: 30px;
     width: 80%;
     min-height: 200px;
-
     padding-top: 40px;
     padding-left: 10px;
 }
@@ -158,8 +163,9 @@ footer {
     }
     /* Hero */
     #cover-text {
-        width: 300px;
-        right: 50%;
+        width: 700px;
+        right: 0%;
+        top: 20%;
     }
 }
 /* Large devices (laptop and desktops, 992px and up) */
