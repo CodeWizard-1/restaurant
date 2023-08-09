@@ -90,6 +90,18 @@ main{
 footer {
     background-color: #000000;
 }
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: red;
+}
 
 /* Media query: tablets and larges (768px and up} */
 @media screen and (min-width:768px) {
