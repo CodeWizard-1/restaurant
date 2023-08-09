@@ -38,7 +38,9 @@ h1{
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #ffffff;
-
+}
+#logo{
+    font-size: 50%;
 }
 #menu {
     font-size: 110%;
@@ -89,3 +91,33 @@ footer {
     background-color: orange;
 }
 
+/* Media query: tablets and larges (768px and up} */
+@media screen and (min-width:768px) {
+    /* Header */
+    nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 1rem;
+    }
+    #menu {
+        display: flex;
+    }
+    #menu > li {
+        padding-left: 1rem;
+    }
+    .nav-toggle-label{
+        display: none;
+    }
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+    /* Main content */
+    main {
+        /* Push main content down to accomodate large header */
+        margin-top: 99px;
+    }
+}
