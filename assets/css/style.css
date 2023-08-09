@@ -81,10 +81,15 @@ nav {
 
 /* Main content */
 main{
-    background-color: rgb(196, 255, 196);
     /* Make main element take up any surpluse spase to push footer  */
     flex: 1 0 auto;
     margin-top: 40px;
+}
+/*  Hero section*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url('../images/italian-pizza-restaurant-italy.webp') no-repeat center center/cover;
 }
 /* Footer */
 footer {
