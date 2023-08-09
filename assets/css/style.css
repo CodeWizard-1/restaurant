@@ -116,6 +116,35 @@ main{
     padding-left: 10px;
 }
 .our-menu {
+    width: 90%;
+    margin: 20px auto;
+    
+}
+#block {
+    border: 1px solid gold;
+}
+
+.our-menu  h2 {
+     margin-bottom: 20px;
+     text-align: center;
+     font-size: 280%;
+     text-transform: none;
+ }
+ /* #benefits-physical>div,
+ #benefits-mental>div {
+     line-height: 20px;
+     margin-bottom: 20px;
+ } */
+ .our-menu p {
+     padding: 0 20px;
+ }
+ hr {
+     border-top: 1px solid #3a3a3a;
+     margin: 5px 0;
+ }
+
+/* Test styles */
+/* .our-menu {
     display: flex;
     flex-direction: column;
     height: 100%;
@@ -127,7 +156,7 @@ main{
     width: 250px;
     height: 250px;
     border: 1px solid gold;
-}
+} */
 /* Footer */
 footer {
     background-color: #000000;
