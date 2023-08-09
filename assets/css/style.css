@@ -120,10 +120,22 @@ main{
     margin: 20px auto;
     
 }
-#block {
+#block, #block-img {
     border: 1px solid gold;
 }
+#block-img {
+    background: url('../images/pexels-lisa-fotios-1279330.webp') no-repeat center center/cover;
+    margin-bottom: 20px;
+    width: 90vw;
+    height: 90vw;
+}
+#block-img-2 {
+    background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
+    margin-bottom: 20px;
+    width: 90vw;
+    height: 90vw;
 
+}
 .our-menu  h2 {
      margin-bottom: 20px;
      text-align: center;
@@ -138,8 +150,8 @@ main{
  .our-menu p {
      padding: 0 20px;
  }
- hr {
-     border-top: 1px solid #3a3a3a;
+.our-menu hr {
+     border-top: 1px solid red;
      margin: 5px 0;
  }
 
