@@ -89,7 +89,7 @@ main{
 }
 /* Footer */
 footer {
-    background-color: rgb(140, 0, 255);
+    background-color: rgb(255, 0, 221);
 }
 
 /* Media query: tablets and larges (768px and up} */
@@ -120,5 +120,11 @@ footer {
     main {
         /* Push main content down to accomodate large header */
         margin-top: 77px;
+    }
+}
+/* Large devices (laptop and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #ffffff;
     }
 }
