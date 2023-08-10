@@ -250,7 +250,7 @@ main {
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
 }
-#reservations-form>h2 {
+#reservations-form > h2 {
     color: #ffffff;
     margin-bottom: 20px;
 }
@@ -372,7 +372,7 @@ footer {
     #reservations-form {
         max-width: 400px;
         position: absolute;
-        left: 10%;
+        left: 20%;
         top: 100px;
     }
     .text-input:hover {
