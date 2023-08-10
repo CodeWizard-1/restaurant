@@ -262,6 +262,14 @@ footer {
     color: red;
 }
 
+/* Media query: larges of lendscape (576 px and up} */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
 /* Media query: tablets and larges (768px and up} */
 @media screen and (min-width:768px) {
 
@@ -321,11 +329,19 @@ footer {
         right: 0%;
         top: 20%;
     }
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* Large devices (laptop and desktops, 992px and up) */
-@media screen and (in-width: 992px) {
+@media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #ffffff;
+    }
+    /* Gallery */
+    #photos {
+        column-count: 4;
     }
 }
