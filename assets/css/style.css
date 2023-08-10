@@ -131,6 +131,14 @@ main {
     padding-left: 10px;
 }
 
+/* About us */
+#about-us h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+    text-transform: none;
+}
+
 .our-menu {
     width: 90%;
     margin: 20px auto;
@@ -178,7 +186,7 @@ main {
     max-width: 300px;
     max-height: 300px;
 }
-#block-img-5 {
+/* #block-img-5 {
     background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
     margin-bottom: 20px;
     width: 90vw;
@@ -193,7 +201,7 @@ main {
     height: 90vw;
     max-width: 300px;
     max-height: 300px;
-}
+} */
 
 .our-menu h2 {
     margin-bottom: 20px;
@@ -280,9 +288,9 @@ footer {
         flex-wrap: wrap;
         justify-content: space-evenly;
     }
-    #dishes-1, #dishes-2, #dishes-3, #dishes-4, #dishes-5, #dishes-6 {
+    /* #dishes-1, #dishes-2, #dishes-3, #dishes-4, #dishes-5, #dishes-6 {
         
-    }
+    } */
 
     /* Main content */
 
