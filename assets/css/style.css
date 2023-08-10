@@ -138,7 +138,8 @@ main {
 }
 
 #block,
-#block-img {
+#block-img,
+#block-img-2 {
     border: 1px solid gold;
 }
 
@@ -147,7 +148,7 @@ main {
     margin-bottom: 20px;
     width: 90vw;
     height: 90vw;
-    max-width: 300 px;
+    max-width: 300px;
     max-height: 300px;
 }
 
@@ -157,16 +158,14 @@ main {
     width: 90vw;
     height: 90vw;
     max-width: 300px;
-
     max-height: 300px;
-
 }
 
 .our-men h2 {
-    margi-bttom: 20px;
-    text-align center;
-    font-size 280%;
-    text-transfrm: none;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+    text-transform: none;
 }
 
 /* #benefit
@@ -177,7 +176,7 @@ main {
  } */
 our-menu p {
 
-    paddig: 0 20px;
+    padding: 0 20px;
 }
 
 .ou-menu hr {
@@ -201,7 +200,7 @@ our-menu p {
 } */
 /* Footer */
 footer {
-    back ground-color: #000000;
+    background-color: #000000;
 }
 
 #social-networks {
@@ -225,15 +224,14 @@ footer {
     /* Header */
     nav {
         display: block;
-        p osit io n: r elative;
+        position: relative;
         box-shadow: none;
-        width:
-            fit-content;
+        width: fit-content;
         padding-right: 1rem;
     }
 
     #menu {
-        displ ay: flex;
+        display: flex;
     }
 
     #menu>li {
@@ -251,11 +249,10 @@ footer {
         margin: 0 0.2rem;
     }
 
-    /* Main c
-ontent */
+    /* Main content */
+
     main {
         /* Push main content down to accomodate large header */
-
         margin-top: 77px;
     }
 
@@ -268,7 +265,7 @@ ontent */
 }
 
 /* Large devices (laptop and desktops, 992px and up) */
-@media scre en and (in-width: 992px) {
+@media screen and (in-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #ffffff;
     }
