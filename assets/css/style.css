@@ -161,7 +161,7 @@ main {
     max-height: 300px;
 }
 
-.our-men h2 {
+.our-menu h2 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
@@ -174,30 +174,16 @@ main {
      line-height: 20p;
      margin-bottom: 20px;
  } */
-our-menu p {
-
+.our-menu p {
     padding: 0 20px;
 }
 
-.ou-menu hr {
-    border-top: 1px solid red;
+.our-menu hr {
+    border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
 
-/* Test styles */
-/* .our-menu {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    margin-right: 10px;
-}
-#block {
-    width: 250px;
-    height: 250px;
-    border: 1px solid gold;
-} */
+
 /* Footer */
 footer {
     background-color: #000000;
