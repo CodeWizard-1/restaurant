@@ -27,7 +27,7 @@ h3 {
 
 h2 {
     font-family: 'Berkshire Swash', sans-serif;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     letter-spacing: 2px;
     color: black;
 }
