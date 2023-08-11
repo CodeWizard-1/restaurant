@@ -230,12 +230,6 @@ main {
     text-transform: none;
 }
 
-/* #benefit
--physical>div,
- #benefits-mental>div {
-     line-height: 20p;
-     margin-bottom: 20px;
- } */
 .our-menu p {
     padding: 0 20px;
 }
@@ -245,23 +239,26 @@ main {
     margin: 5px 0;
 }
 /* Menu page */
-/* #menu-page {
+/* .menu-page {
     background: url('../images/pexels-terje-sollie-313700.webp');
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 } */
-#table {
+.table {
+    padding: 10px;
     display: grid;
     grid-template-columns: 1fr;
     grid-column-gap: 10px;
     grid-row-gap: 5px;
-    grid-auto-rows: 100px;
-    justify-content: space-between;
+    grid-auto-rows: minmax(50px, auto);
+    justify-content: center;
+ 
 }
 
-#dish {
+
+.dish {
     padding: 10px;
     border: 1px solid black;
     background-color: aqua;
@@ -390,6 +387,13 @@ footer {
         flex-wrap: wrap;
         justify-content: space-evenly;
     }
+
+    /* Menu page */
+    .table {
+        grid-template-columns: 1fr 1fr;
+    }
+
+
     /* Reservations */
     #reservations {
         background-position: center;
