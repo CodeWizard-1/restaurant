@@ -239,9 +239,17 @@ main {
     margin: 5px 0;
 }
 /* Menu page */
-#menu-dishes {
+#menu-page {
+    background: url('../images/pexels-terje-sollie-313700.webp');
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+#menu-page div{
     padding: 10px;
     border: 1px solid black;
+    background-color: aqua;
 }
 
 
@@ -344,21 +352,7 @@ footer {
         line-height: 75px;
         margin: 0 0.2rem;
     }
-    /* Popular dishes section */
-    /* #dishes-1, #dishes-2, #dishes-3, #dishes-4, #dishes-5, #dishes-6 {
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-    } */
-    #block-dishes {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-    }
-    /* #dishes-1, #dishes-2, #dishes-3, #dishes-4, #dishes-5, #dishes-6 {
-        
-    } */
+    
 
     /* Main content */
 
@@ -372,6 +366,13 @@ footer {
         width: 700px;
         right: 10%;
         top: 20%;
+    }
+    /* Popular dishes section */
+    #block-dishes {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
     }
 
     /* Reservations */
