@@ -246,6 +246,10 @@ main {
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 } */
+.menu-page {
+    background: url('../images/pexels-terje-sollie-313700.webp') no-repeat center/cover;
+    flex-grow: 1;
+}
 .table {
     padding: 10px;
     display: grid;
@@ -254,22 +258,21 @@ main {
     grid-row-gap: 5px;
     grid-auto-rows: minmax(50px, auto);
     justify-content: center;
+    background-color: rgba(250, 245, 245,0.7);
+    padding: 30px;
+    margin: 30px;
  
 }
 
-.dish {
+.menu-dishes-1 {
     display: grid;
 }
-#price {
-    display: grid;
-}
-
 
 /* Reservations */
 #reservations {
     background: url('../images/pexels-ensar-13499007.webp');
     background-size: cover;
-    background-position: 75%;
+    background-position: 60%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
