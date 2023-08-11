@@ -238,6 +238,15 @@ main {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+/* Menu page */
+#menu-dishes {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+
+
 /* Reservations */
 #reservations {
     background: url('../images/pexels-ensar-13499007.webp');
