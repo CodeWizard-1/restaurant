@@ -124,7 +124,7 @@ main {
     position: relative;
 }
 #hero div {
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .7);
 }
 
 #cover-text {
@@ -361,7 +361,7 @@ footer {
     /* Hero */
     #cover-text {
         width: 700px;
-        right: 0%;
+        right: 10%;
         top: 20%;
     }
 
@@ -389,6 +389,12 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid red;
+    }
+    /* Hero */
+    #cover-text {
+        width: 700px;
+        right: 30%;
+        top: 20%;
     }
     /* Gallery */
     #photos {
