@@ -149,7 +149,10 @@ main {
 
 /* About us section */
 #about-us{
-    background: url('../images/1674760195_top-fon-com-p-fon-dlya-prezentatsii-neitralnii-s-ramkoi-209.webp') no-repeat center center/cover;
+    
+    width: 85%;
+    margin: 20px auto;
+
     
 }
 #about-us h2, .menu-page h2 {
