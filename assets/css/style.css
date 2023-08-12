@@ -168,7 +168,7 @@ main {
     line-height: 1em;
     padding: 5%;
     max-width: 400px;
-    min-width: 300px;
+    min-width: 240px;
     
 }
 
@@ -364,6 +364,9 @@ a.button {
     background: green;
     color: white;
 }
+/* Contact us */
+
+
 
 /* Footer */
 footer {
