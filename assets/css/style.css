@@ -148,8 +148,8 @@ main {
 }
 
 /* About us */
-#about-us h2 {
-    margin-bottom: 20px;
+#about-us h2, .menu-page h2 {
+    margin: 10px;
     text-align: center;
     font-size: 280%;
     text-transform: none;
@@ -239,18 +239,12 @@ main {
     margin: 5px 0;
 }
 /* Menu page */
-/* .menu-page {
-    background: url('../images/pexels-terje-sollie-313700.webp');
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
-} */
 .menu-page {
     background: url('../images/pexels-terje-sollie-313700.webp') no-repeat center/cover;
     flex-grow: 1;
 }
 .table {
+    background: url('../images/menu-page-background.webp');
     padding: 10px;
     display: grid;
     grid-template-columns: 1fr;
@@ -258,9 +252,9 @@ main {
     grid-row-gap: 5px;
     grid-auto-rows: minmax(50px, auto);
     justify-content: center;
-    background-color: rgba(250, 245, 245,0.7);
-    padding: 30px;
-    margin: 30px;
+    /* background-color: rgba(250, 245, 245,0.7); */
+    padding: 11px;
+    margin: 11px;
  
 }
 
