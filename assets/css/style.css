@@ -313,9 +313,8 @@ a.button {
     background: red;
     color: #fff;
     padding: 12px;
-    border-radius: 3px;
+    border-radius: 5px;
     text-decoration: none;
-    /* font-family: Tahoma; */
     font-size: 18px;
     line-height: 1;
     font-weight: 100;
@@ -324,6 +323,15 @@ a.button {
 .button  div {
     margin: 24px;
     text-align: center;
+}
+
+/* .button:hover {
+    transform: translate(8px)
+} */
+.button:hover {
+    background: rgba(0,0,0,0);
+    color: green;
+    box-shadow: inset 0 0 0 3px green;
 }
 
 /* Footer */
