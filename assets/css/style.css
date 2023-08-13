@@ -135,7 +135,7 @@ main {
 
 #cover-text {
 
-    font-size: 130%;
+    font-size: 170%;
     position: absolute;
     top: 30px;
     width: 80%;
@@ -442,6 +442,7 @@ footer {
         width: 700px;
         right: 10%;
         top: 20%;
+        font-size: 200%;
     }
 
     /* About us section */
@@ -495,6 +496,7 @@ footer {
         width: 700px;
         right: 30%;
         top: 20%;
+        font-size: 250%;
     }
     /* Gallery */
     #photos {
