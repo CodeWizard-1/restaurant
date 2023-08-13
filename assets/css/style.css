@@ -169,32 +169,26 @@ main {
     padding: 5%;
     max-width: 400px;
     min-width: 240px;
-    
-}
+    }
 
 
 /* Our popular dishes section */
 .our-menu {
     /* background: url('../images/pexels-chan-walrus-941861.webp'); */
-    width: 90%;
+    width: 100%;
     margin: 20px auto;
-
-}
-/* .our-menu div {
-    background-color: #ffffff;
-} */
+    }
 
 #block,
 #block-img,
 #block-img-2 {
-    border: 1px solid red;
-    max-width: 300px;
-    max-height: 300px;
+        max-width: 300px;
+        max-height: 300px;
 }
 
 #block-img {
     background: url('../images/pexels-lisa-fotios-1279330.webp') no-repeat center center/cover;
-    margin-bottom: 20px;
+    margin: 10px;
     width: 90vw;
     height: 90vw;
     max-width: 300px;
@@ -203,7 +197,7 @@ main {
 
 #block-img-2 {
     background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
-    margin-bottom: 20px;
+    margin: 10px;
     width: 90vw;
     height: 90vw;
     max-width: 300px;
@@ -211,7 +205,7 @@ main {
 }
 #block-img-3 {
     background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
-    margin-bottom: 20px;
+    margin: 10px;
     width: 90vw;
     height: 90vw;
     max-width: 300px;
@@ -219,7 +213,7 @@ main {
 }
 #block-img-4 {
     background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
-    margin-bottom: 20px;
+    margin: 10px;
     width: 90vw;
     height: 90vw;
     max-width: 300px;
@@ -227,7 +221,7 @@ main {
 }
 /* #block-img-5 {
     background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
-    margin-bottom: 20px;
+    margin: 10px;
     width: 90vw;
     height: 90vw;
     max-width: 300px;
@@ -235,7 +229,7 @@ main {
 }
 #block-img-6 {
     background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
-    margin-bottom: 20px;
+    margin: 10px;
     width: 90vw;
     height: 90vw;
     max-width: 300px;
@@ -243,7 +237,7 @@ main {
 } */
 
 .our-menu h2 {
-    margin-bottom: 20px;
+    margin: 10px;
     text-align: center;
     font-size: 280%;
     text-transform: none;
@@ -258,7 +252,9 @@ main {
     margin: 5px 0;
 }
 
-
+#dishes-1 {
+    margin-bottom: 10px;
+}
 /* Menu page */
 .menu-page {
     background: url('../images/pexels-terje-sollie-313700.webp') no-repeat center/cover;
@@ -494,6 +490,13 @@ footer {
         right: 30%;
         top: 20%;
     }
+    /* #about-img-1 img{
+        width: 90%;
+        line-height: 1em;
+        padding: 5%;
+        max-width: 400px;
+        min-width: 240px;
+     } */
     /* Gallery */
     #photos {
         column-count: 4;
