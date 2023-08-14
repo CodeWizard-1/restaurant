@@ -53,10 +53,10 @@ header a {
     font-size: 180%;
     color: #ffffff;
 }
-#red {
+.red {
     color: red;
 }
-#green {
+.green {
     color: green;
 
 }
@@ -191,7 +191,7 @@ main {
     text-align: center;
 }
 
-#block,
+.block,
 #block-img,
 #block-img-2 {
         max-width: 300px;
