@@ -166,7 +166,7 @@ main {
     text-transform: none;
 }
 
-#about-img img{
+#about-img img, #about-img-1 img{
     width: 90%;
     line-height: 1em;
     padding: 5%;
@@ -174,7 +174,9 @@ main {
     min-width: 240px;
     }
 
-
+#about-img-1 img {
+    display: none;
+}
 /* Our popular dishes section */
 .our-menu {
     /* background: url('../images/pexels-chan-walrus-941861.webp'); */
@@ -500,6 +502,10 @@ footer {
         right: 30%;
         top: 20%;
         font-size: 250%;
+    }
+    /* About us */
+    #about-img-1 img {
+        display:inline;
     }
     /* Gallery */
     #photos {
