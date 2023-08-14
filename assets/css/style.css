@@ -398,8 +398,16 @@ a.button {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding: 24px;
-    font-size: medium;
+    padding-bottom: 20px;
+ }
+#adress i, #phone i, #opening-hours i {
+    font-size: 160%;
+    padding: 5%;
+    color: red;
+  
+}
+#adress, #phone {
+    text-align: center;
 }
 th,
 td {
@@ -427,7 +435,6 @@ footer {
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
-
     list-style-type: none;
 }
 
