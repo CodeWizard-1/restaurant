@@ -185,7 +185,7 @@ main {
     min-width: 240px;
 }
 
-#about-img-1 img {
+#about-img-1 img, #about-img img {
     display: none;
 }
 
@@ -484,6 +484,9 @@ footer {
         margin: 20px auto;
         display: flex;
         justify-content: space-around;
+    }
+    #about-img img {
+        display: inline;
     }
 
     /* Popular dishes section */
