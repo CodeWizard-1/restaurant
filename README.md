@@ -8,7 +8,9 @@
 ## Project Goals
 
 The project is designed to attract customers, provide them with a convenient platform to explore the restaurant's menu and services, enable online reservations, and offer a visual delight in the dishes presented.
-The name of the restaurant "Bella Ciao" came from the Italian song "Bella ciao." This song is special for Italians, and it inspired our name. Just like the song carries history and feelings, I want the restaurant to convey the same atmosphere and provide our guests with an authentic Italian experience.
+
+## Idea
+The name of the restaurant "Bella Ciao" comes from the Italian song "Bella ciao". This song is special to Italians and inspired me to name the restaurant. Just as the song carries the story and feelings, I want the restaurant to convey the same atmosphere and give the guests a real Italian atmosphere.
 
 ## Design
 
@@ -16,13 +18,13 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 
 
-**Colors**: We use the colors of the Italian flag: green, white, and red. This makes the website vibrant and warm.
+**Colors**: I use the colors of the Italian flag: green, white, and red. This makes the website vibrant and warm.
 
 ![Alt text](documentation/image-16.png)
 
 
 
-**Logo**: Our logo also incorporates these colors and conveys the restaurant's identity.
+**Logo**: Logo also incorporates these colors and conveys the restaurant's identity.
 
 ![Alt text](documentation/image.png)
 
@@ -38,7 +40,7 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 
 
-**Images**: We use high-quality photos of dishes and the restaurant interior.
+**Images**: I use high-quality photos of dishes and the restaurant interior.
 
 ![Alt text](documentation/image-13.png)
 
@@ -53,12 +55,13 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 **Mobile-Friendly**: The design looks great on different devices, from computers to phones.
 
-![Alt text](documentation/image-4.png)
 ![Alt text](documentation/image-5.png)
+![Alt text](documentation/image-4.png)
 
-**Convenience**: The design is made so that users easily find the necessary information and can easily get in touch with us.
 
-![Alt text](documentation/image-2.png)
+**Convenience**: The design is made so that users easily find the necessary information and can easily get in touch with the restaurant.
+
+![Alt text](documentation/image-17.png)
 
 
 ### Languages Used
@@ -68,7 +71,7 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 ## Accessibility
 
-- During the coding process, I've focused on making the website as user-friendly for accessibility as possible. To achieve this objective, I've applied the following strategies:
+- During the coding process, I've focused on making the website as user-friendly for accessibility as possible. To achieve this objective.
 
 - I've used semantic HTML elements such as header, section, nav, and footer, providing a clear and meaningful structure to the website, which enhances its accessibility.
 
