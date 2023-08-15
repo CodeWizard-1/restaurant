@@ -191,7 +191,6 @@ main {
 
 /* Our popular dishes section */
 .our-menu {
-    /* background: url('../images/pexels-chan-walrus-941861.webp'); */
     width: 100%;
 }
 
@@ -438,24 +437,36 @@ footer {
 
 
 /* Gallery page*/
-#photos img {
+.gallery {
+    background: #000000;
+}
+.gallery, .img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2px;
+    margin: 1px 0;
+
+
+}
+.img {
+  width: 273px;
+  height: 250px;
+  border: 2px solid white;
+  overflow: hidden;
+ }
+ .img img{
     width: 100%;
-    line-height: 1em;
-}
-
-#photos {
-    line-height: 0;
-}
-
-
-
-/* Media query: larges of lendscape (576 px and up} */
-@media screen and (min-width: 576px) {
-    #photos {
-        column-count: 2;
-        column-gap: 0;
-    }
-}
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: .5s;
+    
+ }
+ .img:hover img{ 
+    transform: scale(1.1);
+ }
 
 /* Media query: tablets and larges (768px and up} */
 @media screen and (min-width:768px) {
@@ -545,11 +556,6 @@ footer {
     .text-input:hover {
         border-color: red;
     }
-
-    /* Gallery */
-    #photos {
-        column-count: 3;
-    }
 }
 
 /* Large devices (laptop and desktops, 992px and up) */
@@ -569,10 +575,5 @@ footer {
     /* About us */
     #about-img-1 img {
         display: inline;
-    }
-
-    /* Gallery */
-    #photos {
-        column-count: 4;
     }
 }
