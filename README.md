@@ -16,49 +16,49 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 
 
-**Colors**: We use the colors of the Italian flag: red, white, and green. This makes the website vibrant and warm.
+**Colors**: We use the colors of the Italian flag: green, white, and red. This makes the website vibrant and warm.
 
-![Alt text](image-6.png)
+![Alt text](documentation/image-16.png)
 
 
 
 **Logo**: Our logo also incorporates these colors and conveys the restaurant's identity.
 
-![Alt text](image.png)
+![Alt text](documentation/image.png)
 
 
 **Text**: Fonts are chosen to make the text clear and beautiful.
 
-![Alt text](image-1.png)
+![Alt text](documentation/image-1.png)
 
 
 **Layout**: Pages are divided into sections to easily find the necessary information.
 
-![Alt text](image-3.png)
+![Alt text](documentation/image-3.png)
 
 
 
 **Images**: We use high-quality photos of dishes and the restaurant interior.
 
-![Alt text](image-13.png)
+![Alt text](documentation/image-13.png)
 
 
 
 **Table reservation button**:  When you click the reservation button, it turns green and takes you to the "Reservations" page. This button is a simple and fun way for you to book a table at restaurant.
 
-![Alt text](image-8.png)
-![Alt text](image-9.png)
+![Alt text](documentation/image-8.png)
+![Alt text](documentation/image-9.png)
 
 
 
 **Mobile-Friendly**: The design looks great on different devices, from computers to phones.
 
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+![Alt text](documentation/image-4.png)
+![Alt text](documentation/image-5.png)
 
 **Convenience**: The design is made so that users easily find the necessary information and can easily get in touch with us.
 
-![Alt text](image-2.png)
+![Alt text](documentation/image-2.png)
 
 
 ### Languages Used
@@ -83,24 +83,24 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 Checking for errors showed that there are no errors in html
 
-![Alt text](image-14.png)
+![Alt text](documentation/image-14.png)
 
 
 **Validator CSS**:
 
 Checking the css code also showed that there are no errors
-![Alt text](image-15.png)
+![Alt text](documentation/image-15.png)
 
 
 **Mobile device**:
 
 
 
-![Alt text](image-10.png)
+![Alt text](documentation/image-10.png)
 
 **Desktop device**:
 
-![Alt text](image-11.png)
+![Alt text](documentation/image-11.png)
 
 
 ### Frameworks and Programs Used
