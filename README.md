@@ -65,6 +65,16 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 - HTML5
 - CSS3
 
+## Accessibility
+
+- During the coding process, I've focused on making the website as user-friendly for accessibility as possible. To achieve this objective, I've applied the following strategies:
+
+- I've used semantic HTML elements such as header, section, nav, and footer, providing a clear and meaningful structure to the website, which enhances its accessibility.
+
+- I've added descriptive Alt attributes to images and links. This allows screen readers to explain the content's purpose and context to users with visual impairments.
+
+- I've integrated a hover effect on all buttons to ensure users can easily identify when they're interacting with a button, thus improving the overall user experience.
+
 
 ## Testing
 
@@ -77,7 +87,7 @@ Checking for errors showed that there are no errors in html
 
 **Validator CSS**:
 
-checking the css code also showed that there are no errors
+Checking the css code also showed that there are no errors
 ![Alt text](image-15.png)
 
 
@@ -94,6 +104,8 @@ checking the css code also showed that there are no errors
 
 ### Frameworks and Programs Used
 
+- [Validator HTML](https://validator.w3.org/) and 
+ [Validator CSS](igsaw.w3.org) - to check errors in code.
 - Google Fonts - to add and import the fonts used in the website.
 - [Fontawesome](https://fontawesome.com) - for the icons used in the website.
 - Git - for version control
@@ -110,4 +122,9 @@ checking the css code also showed that there are no errors
 
 - The code was created inspired by the projects of "Love running" and the website of [this](https://www.ilpomodoro.ie/) restaurant.
 - The idea of a button changing color upon clicking was taken from [here](https://dsgnmania.com/)
-- 
+
+
+### Features Left to Implement
+
+Given more time, I would have implemented an online food ordering form and  also added a quick scroll-to-top button to the website.
+ 
