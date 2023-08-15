@@ -6,10 +6,15 @@
 [You can view the website here](https://codewizard-1.github.io/restaurant/index.html)
 
 ## Project Goals
+
 The project is designed to attract customers, provide them with a convenient platform to explore the restaurant's menu and services, enable online reservations, and offer a visual delight in the dishes presented.
+The name of the restaurant "Bella Ciao" came from the Italian song "Bella ciao." This song is special for Italians, and it inspired our name. Just like the song carries history and feelings, I want the restaurant to convey the same atmosphere and provide our guests with an authentic Italian experience.
 
 ## Design
+
 The design of the project is aimed at conveying the atmosphere of Italian culture and taste, providing an easy and convenient experience for everyone. Here are some key features of the design:
+
+
 
 **Colors**: We use the colors of the Italian flag: red, white, and green. This makes the website vibrant and warm.
 
@@ -35,7 +40,7 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 **Images**: We use high-quality photos of dishes and the restaurant interior.
 
-![Alt text](image-7.png)
+![Alt text](image-13.png)
 
 
 
@@ -87,6 +92,8 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 - [Convertio](https://convertio.co/) and [Cloudconvert](https://cloudconvert.com/) - to convert images type from JPG to WEBP.
 
 
-### Code:
+### Code
 
--
+- The code was created inspired by the projects of "Love running" and the website of [this](https://www.ilpomodoro.ie/) restaurant.
+- The idea of a button changing color upon clicking was taken from [here](https://dsgnmania.com/)
+- 
