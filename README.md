@@ -67,6 +67,20 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 
 ## Testing
+
+**Validator HTML**:
+
+Checking for errors showed that there are no errors in html
+
+![Alt text](image-14.png)
+
+
+**Validator CSS**:
+
+checking the css code also showed that there are no errors
+![Alt text](image-15.png)
+
+
 **Mobile device**:
 
 
