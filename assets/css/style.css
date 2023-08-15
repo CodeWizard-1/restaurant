@@ -274,6 +274,83 @@ main {
     margin-bottom: 10px;
 }
 
+/* Button book a table */
+a.button {
+    display: inline-block;
+    background: red;
+    color: #fff;
+    padding: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+}
+
+.button div {
+    margin: 24px;
+    text-align: center;
+}
+
+.button:hover {
+    background: green;
+    color: white;
+}
+
+/* Contact us */
+#contact-block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 20px;
+ }
+#adress i, #phone i, #opening-hours i {
+    font-size: 160%;
+    padding: 5%;
+    color: red;
+  
+}
+#adress, #phone, #opening-hours {
+    text-align: center;
+    width: 178px;
+    height: 135px;
+
+}
+
+th,
+td {
+    border-bottom: 1px solid black;
+}
+#map-wrapper {
+
+    height: 300px;
+ }
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+
+/* Footer */
+footer {
+    background-color: #000000;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: red;
+}
 
 /* Menu page */
 .menu-page {
@@ -370,79 +447,7 @@ main {
     line-height: 0;
 }
 
-/* Button book a table */
-a.button {
-    display: inline-block;
-    background: red;
-    color: #fff;
-    padding: 12px;
-    border-radius: 5px;
-    text-decoration: none;
-    font-size: 18px;
-    line-height: 1;
-    font-weight: 100;
-}
 
-.button div {
-    margin: 24px;
-    text-align: center;
-}
-
-.button:hover {
-    background: green;
-    color: white;
-}
-
-/* Contact us */
-#contact-block {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding-bottom: 20px;
- }
-#adress i, #phone i, #opening-hours i {
-    font-size: 160%;
-    padding: 5%;
-    color: red;
-  
-}
-#adress, #phone {
-    text-align: center;
-}
-th,
-td {
-    border-bottom: 1px solid black;
-}
-#map-wrapper {
-
-    height: 300px;
- }
-
-#map {
-    height: 100%;
-    width: 100%;
-    border: none;
-}
-
-
-/* Footer */
-footer {
-    background-color: #000000;
-}
-
-#social-networks {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
-}
-
-#social-networks i {
-    font-size: 160%;
-    padding: 5%;
-    color: red;
-}
 
 /* Media query: larges of lendscape (576 px and up} */
 @media screen and (min-width: 576px) {
