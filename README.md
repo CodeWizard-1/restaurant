@@ -52,6 +52,7 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 
 **Mobile-Friendly**: The design looks great on different devices, from computers to phones.
+
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 
@@ -97,7 +98,7 @@ Checking the css code also showed that there are no errors
 
 ![Alt text](image-10.png)
 
-**Destop device**:
+**Desktop device**:
 
 ![Alt text](image-11.png)
 
