@@ -63,6 +63,23 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 ![Alt text](documentation/image-17.png)
 
+**The Footer**: The footer section includes links to the relevant social media. The links will open to a new tab to allow easy navigation.
+
+![Alt text](documentation/image-18.png)
+
+**Menu**: The menu includes a list of dishes with a description of the ingredients and the price. As well as an interactive button through which you can book a table.
+
+
+![Alt text](documentation/image-19.png)
+
+**Reservations**: The reservations page includes a form, thanks to which you can choose a convenient day and time for booking a table.
+
+
+![Alt text](documentation/image-20.png)
+
+**Gallery**: The gallery page presents the dishes and the interior of the restaurant.
+
+![Alt text](documentation/image-21.png)
 
 ### Languages Used
 
