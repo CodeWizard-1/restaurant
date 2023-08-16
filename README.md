@@ -167,12 +167,24 @@ Fix:  I set equal height and width for all elements within the "Contact Us" sect
 - [Favicon-generator](https://favicon.io/favicon-generator/) - to generate a favicon from text for the website.
 - [Convertio](https://convertio.co/) and [Cloudconvert](https://cloudconvert.com/) - to convert images type from JPG to WEBP.
 
+## Credits
 
-## Code
+### Code
 
 - The code was created inspired by the projects of "Love running" and the website of [this](https://www.ilpomodoro.ie/) restaurant.
 - The idea of a button changing color upon clicking was taken from [here](https://dsgnmania.com/)
+- the idea of ​​creating a gallery was taken from this [video](https://www.youtube.com/watch?v=5bM0J4KCBeI)
 
+### Media:
+
+All images used are from:
+
+- [Pixels](https://www.pexels.com/)
+
+### Website Content:
+
+- Some of the information was taken from this website:
+ https://www.ilpomodoro.ie/
 
 ## Deployment and local development
 
