@@ -159,7 +159,7 @@ main {
 
 /* About us section */
 #about-us {
-    width: 90%%;
+    width: 90%;
     margin: 20px auto;
     display: flex;
     justify-content: center;
@@ -175,6 +175,7 @@ main {
     font-size: 280%;
     text-transform: none;
 }
+
 #about-img,
 #about-img-1, #about-img-2, #about-discription {
     width: 90%;
@@ -183,6 +184,7 @@ main {
     max-width: 270px;
     min-width: 240px;
     overflow: hidden;
+    
 }
 #about-img img,
 #about-img-1 img, #about-img-2 img {
