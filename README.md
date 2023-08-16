@@ -98,6 +98,18 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 
 ## Testing
+**Manual testing**:
+- Link checking:
+I alternately clicked on all the internal and external links on the site to make sure they opened and led to the correct pages. All links are working correctly.
+
+- Navigation testing:
+I tested how easily users can navigate between different sections and pages of the site using the menu navigation links. I made sure that returning to the main page is available from any page and is intuitive.
+
+- Order Button Check:
+I have verified that the table reservation button works correctly and takes me to the reservations page. I also checked that this button changes color and is visually different after being clicked.
+
+- Table booking form testing:
+I entered test data into the table reservation form and submitted the form to check that it works correctly. The form is working correctly. I checked the validity of the entered data. Everything works correctly
 
 **Validator HTML**:
 
