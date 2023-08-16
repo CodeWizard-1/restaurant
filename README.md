@@ -101,6 +101,7 @@ The website has a responsive layout that automatically adjusts when the screen s
 
 
 ## Testing
+
 **Manual testing**:
 - Link checking:
 I alternately clicked on all the internal and external links on the site to make sure they opened and led to the correct pages. All links are working correctly.
@@ -130,12 +131,14 @@ Checking the css code also showed that there are no errors
 **Mobile device**:
 
 
-
 ![Alt text](documentation/image-10.png)
 
 **Desktop device**:
 
 ![Alt text](documentation/image-11.png)
+
+**Fixed bugs**
+
 
 
 ## Frameworks and Programs Used
@@ -175,13 +178,6 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 
 ### Local Development
 
-How to Fork:
-
-- Log in (or sign up) to Github.
-- Go to the repository for this project, https://github.com/CodeWizard-1/restaurant.
-- Click the Fork button in the top right corner.
-
-
 How to Clone:
 
 - Log in (or sign up) to GitHub.
@@ -189,6 +185,12 @@ How to Clone:
 - Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 - Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 - Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+How to Fork:
+
+- Log in (or sign up) to Github.
+- Go to the repository for this project, https://github.com/CodeWizard-1/restaurant.
+- Click the Fork button in the top right corner.
 
 ## Features Left to Implement
 
