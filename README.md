@@ -84,6 +84,7 @@ The website has a responsive layout that automatically adjusts when the screen s
 
 ![Alt text](documentation/image-21.png)
 
+
 ### Languages Used
 
 - HTML5
@@ -145,7 +146,7 @@ Issue: social link "Insatgram" on the footer  were leading to incorrect page. <b
 Fix: I reviewed and corrected the URL  of the  link, ensuring they point to the intended page
 
  - Bug 2: Uneven distribution of elements in the section.
- 
+
 Issue:  the elements within the "Contact Us" section were not centered properly, even though I used tools to display items centered.
  <br>
 Fix:  I set equal height and width for all elements within the "Contact Us" section. This helped align the elements at the center of the section, creating a more balanced visual effect.
