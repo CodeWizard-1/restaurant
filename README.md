@@ -133,11 +133,11 @@ Checking the css code also showed that there are no errors
 **Mobile device**:
 
 
-![Alt text](documentation/image-10.png)
+![Alt text](documentation/Screenshot-mobile-test.png)
 
 **Desktop device**:
 
-![Alt text](documentation/image-11.png)
+![Alt text](documentation/Screenshot-test-destop-version.png)
 
 **Fixed bugs**
 
