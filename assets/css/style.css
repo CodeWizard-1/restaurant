@@ -451,8 +451,7 @@ footer {
     flex-wrap: wrap;
     gap: 2px;
     margin: 1px 0;
-
-
+    flex-grow: 1;
 }
 .img {
   width: 273px;
