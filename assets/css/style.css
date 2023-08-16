@@ -200,7 +200,7 @@ main {
 
 #block-dishes {
     display: flex;
-    justify-content: space-aroundc;
+    justify-content: center;
     flex-wrap: wrap;
 
 }

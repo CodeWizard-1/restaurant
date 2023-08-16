@@ -22,7 +22,7 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 ![Alt text](documentation/image-16.png)
 
-
+## Features
 
 **Logo**: Logo also incorporates these colors and conveys the restaurant's identity.
 
