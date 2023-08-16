@@ -24,6 +24,9 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 ## Features
 
+The website consists of four pages that are easily accessible from the navigation menu: home page, menu, reservations, gallery. In addition, there is a table reservation button on the home page and on the menu page, which, when clicked, redirects to the order form on the revervations page.
+The website has a responsive layout that automatically adjusts when the screen size changes.
+
 **Logo**: Logo also incorporates these colors and conveys the restaurant's identity.
 
 ![Alt text](documentation/image.png)
@@ -135,7 +138,7 @@ Checking the css code also showed that there are no errors
 ![Alt text](documentation/image-11.png)
 
 
-### Frameworks and Programs Used
+## Frameworks and Programs Used
 
 - [Validator HTML](https://validator.w3.org/) and 
  [Validator CSS](igsaw.w3.org) - to check errors in code.
@@ -151,13 +154,43 @@ Checking the css code also showed that there are no errors
 - [Convertio](https://convertio.co/) and [Cloudconvert](https://cloudconvert.com/) - to convert images type from JPG to WEBP.
 
 
-### Code
+## Code
 
 - The code was created inspired by the projects of "Love running" and the website of [this](https://www.ilpomodoro.ie/) restaurant.
 - The idea of a button changing color upon clicking was taken from [here](https://dsgnmania.com/)
 
 
-### Features Left to Implement
+## Deployment and local development
+
+### Deployment
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+- Log in (or sign up) to Github.
+- Find the repository for this project, https://github.com/CodeWizard-1/restaurant.
+- Click on the Settings link.
+- Click on the Pages link in the left hand side navigation bar.
+- In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+- Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+### Local Development
+
+How to Fork:
+
+- Log in (or sign up) to Github.
+- Go to the repository for this project, https://github.com/CodeWizard-1/restaurant.
+- Click the Fork button in the top right corner.
+
+
+How to Clone:
+
+- Log in (or sign up) to GitHub.
+- Go to the repository for this project, https://github.com/CodeWizard-1/restaurant.
+- Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+- Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+- Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
+## Features Left to Implement
 
 Given more time, I would have implemented an online food ordering form and  also added a quick scroll-to-top button to the website.
  
