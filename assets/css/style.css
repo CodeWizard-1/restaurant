@@ -192,38 +192,6 @@ main {
     height: 100%
 }
 
-/* #about-img img,
-#about-img-1 img, #about-discription {
-    width: 90%;
-    line-height: 1em;
-    padding: 1px;
-    max-width: 400px;
-    min-width: 240px;
-} */
-/* .gallery, .img-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 2px;
-    margin: 1px 0;
-
-
-}
-.img {
-  width: 273px;
-  height: 250px;
-  border: 2px solid white;
-  overflow: hidden;
- }
- .img img{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    cursor: pointer;
-    transition: .5s;
-     */
- }
 
 /* Our popular dishes section */
 .our-menu {
@@ -232,7 +200,7 @@ main {
 
 #block-dishes {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-aroundc;
     flex-wrap: wrap;
 
 }
@@ -558,7 +526,7 @@ footer {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content: space-evenly;
+        justify-content: center;
     }
 
     /* Menu page */
