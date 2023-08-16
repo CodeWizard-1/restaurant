@@ -139,7 +139,12 @@ Checking the css code also showed that there are no errors
 
 **Fixed bugs**
 
+- Bug 1: Broken Link
 
+Issue: social link "Insatgram" on the footer  were leading to incorrect page. <br>
+Fix: I reviewed and corrected the URL  of the  link, ensuring they point to the intended page
+
+ 
 
 ## Frameworks and Programs Used
 
