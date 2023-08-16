@@ -23,6 +23,23 @@ The design of the project is aimed at conveying the atmosphere of Italian cultur
 
 ![Alt text](documentation/image-16.png)
 
+## Wireframes
+
+When planning the project, I used Balsamiq to create wireframes for each page.
+
+- Home
+  ![Alt text](documentation/Bella-Ciao-Italian-Restaurant-Home.png)
+
+- Menu
+  ![Alt text](documentation/Bella-Ciao-Italian-Restaurant-menu.png)
+
+- Reservations
+  ![Alt text](documentation/Bella-Ciao-Italian-Restaurant-reservations.png)
+
+- Gallery
+  ![Alt text](documentation/Bella-Ciao-Italian-Restaurant-Gallery.png)
+
+
 ## Features
 
 The website consists of four pages that are easily accessible from the navigation menu: home page, menu, reservations, gallery. In addition, there is a table reservation button on the home page and on the menu page, which, when clicked, redirects to the order form on the revervations page.
@@ -82,6 +99,7 @@ The website has a responsive layout that automatically adjusts when the screen s
 ![Alt text](documentation/image-20.png)
 
 **Gallery**: The gallery page presents the dishes and the interior of the restaurant.
+When you hover over an image, it enlarges slightly.
 
 ![Alt text](documentation/image-21.png)
 
