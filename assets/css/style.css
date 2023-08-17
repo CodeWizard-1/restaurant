@@ -133,7 +133,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url('../images/pexels-chan-walrus-941861(3).webp') no-repeat center center/cover;
+    background: url('../images/hero.webp') no-repeat center center/cover;
     position: relative;
 }
 
@@ -222,7 +222,7 @@ main {
 
 
 #block-img {
-    background: url('../images/pexels-lisa-fotios-1279330.webp') no-repeat center center/cover;
+    background: url('../images/pasta-on-fork.webp') no-repeat center center/cover;
     margin: 10px;
     width: 90vw;
     height: 90vw;
@@ -231,7 +231,7 @@ main {
 }
 
 #block-img-2 {
-    background: url('../images/pexels-alesia-kozik-6072095.webp') no-repeat center center/cover;
+    background: url('../images/pizza-with-tomatoes.webp') no-repeat center center/cover;
     margin: 10px;
     width: 90vw;
     height: 90vw;
@@ -240,7 +240,7 @@ main {
 }
 
 #block-img-3 {
-    background: url('../images/pexels-angele-j-128408-_1_.webp') no-repeat center center/cover;
+    background: url('../images/pasta-close-up.webp') no-repeat center center/cover;
     margin: 10px;
     width: 90vw;
     height: 90vw;
@@ -249,7 +249,7 @@ main {
 }
 
 #block-img-4 {
-    background: url('../images/pexels-engin-akyurt-1435903.webp') no-repeat center center/cover;
+    background: url('../images/pizza-with-herb.webp') no-repeat center center/cover;
     margin: 10px;
     width: 90vw;
     height: 90vw;
@@ -357,12 +357,12 @@ footer {
 
 /* Menu page */
 .menu-page {
-    background: url('../images/pexels-terje-sollie-313700.webp') no-repeat center/cover;
+    background: url('../images/background-menu-page.webp') no-repeat center/cover;
     flex-grow: 1;
 }
 
 .table {
-    background: url('../images/menu-page-background.webp');
+    background: url('../images/background-menu-table.webp');
     padding: 10px;
     display: grid;
     grid-template-columns: 1fr;
@@ -388,7 +388,7 @@ footer {
 
 /* Reservations */
 #reservations {
-    background: url('../images/pexels-ensar-13499007.webp');
+    background: url('../images/background-reservations-page.webp');
     background-size: cover;
     background-position: 60%;
     padding: 20px 10% 0 10%;
