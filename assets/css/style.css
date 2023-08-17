@@ -423,7 +423,7 @@ footer {
 }
 
 .join-button {
-    display: inline-block;
+    display: block;
     background: red;
     color: #fff;
     padding: 12px;
@@ -432,6 +432,8 @@ footer {
     font-size: 18px;
     line-height: 1;
     font-weight: 100;
+    width: 160px;
+    margin: auto;
 }
 
 .join-button:hover {
