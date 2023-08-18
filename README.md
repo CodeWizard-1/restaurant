@@ -45,7 +45,7 @@ When planning the project, I used Balsamiq to create wireframes for each page.
 The website consists of four pages that are easily accessible from the navigation menu: home page, menu, reservations, gallery. In addition, there is a table reservation button on the home page and on the menu page, which, when clicked, redirects to the order form on the revervations page.
 The website has a responsive layout that automatically adjusts when the screen size changes.
 
-**Logo**: Logo also incorporates these colors and conveys the restaurant's identity.
+**Logo**: the logo also incorporates the colors of the Italian flag and conveys the identity of the restaurant.
 
 ![Alt text](documentation/image.png)
 
@@ -111,7 +111,7 @@ When you hover over an image, it enlarges slightly.
 
 ## Accessibility
 
-- During the coding process, I've focused on making the website as user-friendly for accessibility as possible. To achieve this objective.
+- During the coding process, I've focused on making the website as user-friendly for accessibility as possible. 
 
 - I've used semantic HTML elements such as header, section, nav, and footer, providing a clear and meaningful structure to the website, which enhances its accessibility.
 
@@ -191,7 +191,7 @@ Fix:  I set equal height and width for all elements within the "Contact Us" sect
 
 - The code was created inspired by the projects of "Love running" and the website of [this](https://www.ilpomodoro.ie/) restaurant.
 - The idea of a button changing color upon clicking was taken from [here](https://dsgnmania.com/)
-- the idea of ​​creating a gallery was taken from this [video](https://www.youtube.com/watch?v=5bM0J4KCBeI)
+- The idea of ​​creating a gallery was taken from this [video](https://www.youtube.com/watch?v=5bM0J4KCBeI)
 
 ### Media:
 
@@ -235,5 +235,5 @@ How to Fork:
 
 ## Features Left to Implement
 
-Given more time, I would have implemented an online food ordering form and  also added a quick scroll-to-top button to the website.
+If I had more time, I would implement an online take-out order form. And  also added a quick scroll-to-top button to the website.
  
